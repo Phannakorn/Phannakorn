@@ -1,4 +1,6 @@
-<H1><strong>Hello My name is Phannakorn</strong>, Welcome to my Github profile👋
+<H1>Hello My name is Phannakorn, Welcome to my Github profile👋
+  
+  
   
   
 
