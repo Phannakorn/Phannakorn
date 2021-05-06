@@ -2,7 +2,7 @@
   <ul>
     <li>⚡ I’m currently Studying at Thainichi- Institute of Technology</li>
     <li>🌱 I’m currently learning Front-End, Back-End & more </li>
-    <li>📫 You can to reach me: <oataxe1869@hotmail.com></li>
+    <li>📫 You can to reach me: *[My e-mail](oataxe1869@hotmail.com)*.</li>
   </ul>
   
 
