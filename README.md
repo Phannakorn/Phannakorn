@@ -2,10 +2,8 @@
   <ul>
     <li>⚡ I’m currently Studying at Thainichi- Institute of Technology</li>
     <li>🌱 I’m currently learning Front-End, Back-End & more </li>
-    <li>📫 You can to reach me: [I'm an inline-style link](https://www.google.com) </li>
+    <li>📫 You can to reach me: (oataxe1869@hotmail.com) </li>
   </ul>
-  [I'm an inline-style link](https://www.google.com)
-
 <!--
 **Phannakorn/Phannakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
