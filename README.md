@@ -1,6 +1,6 @@
-<H1>Hello My name is Phannakorn, Welcome to my Github profile👋
+<H1>Hello My name is Phannakorn, Welcome to my Github profile👋</H1>
   <ul>
-    <li>⚡I’m currently working on</li>
+    <li>⚡ I’m currently Studying at Thainichi- Institute of Technology</li>
     <li>🌱 I’m currently learning Front-End, Back-End & more </li>
   </ul>
   
