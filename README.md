@@ -1,6 +1,6 @@
 <H1>Hello My name is Phannakorn, Welcome to my Github profile👋</H1>
   <ul>
-    <li>⚡ I’m currently studying at Thainichi- Institute of Technology</li>
+    <li>⚡ I’m currently studying at Thai-nichi Institute of Technology(TNI)</li>
     <li>🌱 I’m currently learning Front-End, Back-End & more </li>
     <li>📫 You can to reach me: oataxe1869@hotmail.com or th.phannakorn_st@tni.ac.th </li>
   </ul>
