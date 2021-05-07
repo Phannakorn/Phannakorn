@@ -2,7 +2,7 @@
   <ul>
     <li>⚡ I’m currently studying at Thainichi- Institute of Technology</li>
     <li>🌱 I’m currently learning Front-End, Back-End & more </li>
-    <li>📫 You can to reach me: oataxe1869@hotmail.com </li>
+    <li>📫 You can to reach me: oataxe1869@hotmail.com or th.phannakorn_st@tni.ac.th </li>
   </ul>
 <!--
 **Phannakorn/Phannakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
