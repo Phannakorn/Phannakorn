@@ -1,4 +1,4 @@
-<H1>Hello, I'm oat This is my Github profile👋</H1>
+**Hi, I'm oat This is my Github profile👋**
   <ul>
     <li>⚡ I’m currently studying at Thai-nichi Institute of Technology(TNI)</li>
     <li>🌱 I’m currently learning Front-End, Back-End & more </li>
