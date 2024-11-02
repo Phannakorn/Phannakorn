@@ -1,8 +1,9 @@
 **Hi, I'm oat This is my Github profile👋**
   <ul>
-    <li>⚡ I’m currently studying at Thai-nichi Institute of Technology(TNI)</li>
-    <li>🌱 I’m currently learning Front-End, Back-End & more </li>
-    <li>📫 You can to reach me: oataxe1869@hotmail.com or th.phannakorn_st@tni.ac.th </li>
+    <li>⚡ I graduated from Thai-nichi Institute of Technology(TNI)</li>
+    <li>🌱 I’m love to learn basics everyday </li>
+    <li>⚡ i love : HTML, CSS, Tailwind CSS, Sass, Less, JS, React, PHP, NodeJs, Git</li>
+    <li>📫 You can to reach me: oataxe1869@hotmail.com</li>
   </ul>
 <!--
 **Phannakorn/Phannakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
